@@ -1,4 +1,4 @@
-<h3 align="center">Software Developer | Full-Stack Developer | Code Artisan | Tech Enthusiast</h3><br><br>
+
 Hello there! 👋 I'm a passionate full-stack developer and software developer who loves turning complex problems into simple, beautiful, and intuitive solutions. With over a decade of experience in the tech industry, I've honed my skills in various domains, from crafting robust back-end architectures 🏗️ to designing sleek front-end interfaces 🎨. Whether I'm building responsive web applications, designing RESTful APIs, or optimizing database queries, I thrive on creating seamless and efficient digital experiences. 🌐✨<br><br><br>
 
 
