@@ -1,16 +1,38 @@
-## Hi there 👋
+<h3 align="center">Software Developer | Full-Stack Developer | Code Artisan | Tech Enthusiast</h3><br><br>
+Hello there! 👋 I'm a passionate full-stack developer and software developer who loves turning complex problems into simple, beautiful, and intuitive solutions. With over a decade of experience in the tech industry, I've honed my skills in various domains, from crafting robust back-end architectures 🏗️ to designing sleek front-end interfaces 🎨. Whether I'm building responsive web applications, designing RESTful APIs, or optimizing database queries, I thrive on creating seamless and efficient digital experiences. 🌐✨<br><br><br>
 
-<!--
-**VinoliaBattiri/VinoliaBattiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h4>🔧 Technologies & Tools I Work With:</h4>
+<h6>Languages:</h6> Java, Python, SQL, JavaScript, Scala<br>
+<h6>Frameworks & Libraries:</h6> Spring Boot, Angular, Flask, Apache Flink, PySpark<br>
+<h6>Data Technologies:</h6> Hadoop, Hive, Kafka, MongoDB, PostgreSQL, AWS RDS, Databricks<br>
+<h6>DevOps & Cloud:</h6> AWS, Kubernetes, Docker, Jenkins, CI/CD pipelines<br>
+BI & Reporting Tools:</h6> Tableau, Looker, QlikSense<br><br>
+<h4>🧠 What I Do:</h4>
+<h6>Full-Stack Development:</h6> Building end-to-end solutions with a keen eye for detail and performance optimization. From dynamic, responsive front-end designs to robust, scalable back-end systems. 🌐<br>
+<h6>Data Engineering:</h6> Architecting scalable data pipelines, wrangling vast datasets, and making data-driven insights accessible. 📊<br>
+<h6>Automation & Optimization:</h6> Automating repetitive tasks to save time and reduce errors, and optimizing code for better efficiency. ⚙️<br>
+<h6>Continuous Learning:</h6> Keeping up with the latest trends and technologies to continually improve and innovate. 🚀<br><br>
+<h4>🌱 Currently Exploring:</h4>
+Advanced data lake architectures within the AWS ecosystem. 🏞️<br>
+Real-time data processing with Apache Kafka and Flink. ⏱️<br>
+Enhancing my expertise in cloud-native development and microservices. ☁️<br><br>
+<h4>🎯 Core Values:</h4>
+<h6>Quality:</h6> Striving for excellence in every line of code I write. 💎<br>
+<h6>Collaboration:</h6> Believing in the power of teamwork to achieve great things. 🤝<br>
+<h6>Innovation:</h6> Always looking for new ways to solve problems and improve processes. 💡<br>
+<h6>Passion:</h6> Coding isn't just a job; it's my craft and my calling. ❤️<br><br>
+<h4>🌟 Fun Facts:</h4>
+When I'm not coding, you can find me in the ring practicing mixed martial arts. 🥋<br>
+I have a secret talent for making a mean cup of coffee – perfect fuel for those late-night coding sessions. ☕<br>
+My favorite way to debug code? A walk in the park or a quick game of chess. Sometimes, a fresh perspective is all you need! ♟️<br><br>
+- 📫 How to reach me **vinoliabattiri@gmail.com**<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/vbattiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vbattiri" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vinoliabattiri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vinoliabattiri" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
