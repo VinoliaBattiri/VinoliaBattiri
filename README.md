@@ -2,15 +2,16 @@
 Hello there! 👋 I'm a passionate full-stack developer and software developer who loves turning complex problems into simple, beautiful, and intuitive solutions. With over a decade of experience in the tech industry, I've honed my skills in various domains, from crafting robust back-end architectures 🏗️ to designing sleek front-end interfaces 🎨. Whether I'm building responsive web applications, designing RESTful APIs, or optimizing database queries, I thrive on creating seamless and efficient digital experiences. 🌐✨<br><br><br>
 
 
-<h4>🔧 Technologies & Tools I Work With:</h4>
-<h6>Languages:</h6> Java, Python, SQL, JavaScript, Scala<br>
-<h6>Frameworks & Libraries:</h6> Spring Boot, Angular, Flask, Apache Flink, PySpark<br>
-<h6>Data Technologies:</h6> Hadoop, Hive, Kafka, MongoDB, PostgreSQL, AWS RDS, Databricks<br>
-<h6>DevOps & Cloud:</h6> AWS, Kubernetes, Docker, Jenkins, CI/CD pipelines<br>
-BI & Reporting Tools:</h6> Tableau, Looker, QlikSense<br><br>
+<h3>🔧 Technologies & Tools I Work With:</h3>
+<b>Programming and Scripting Languages:</b> Java, Python, JavaScript, PHP<br>
+<b>Databases:</b> MySQL, MongoDB<br>
+<b> Web Development:</b>  HTML, CSS, Bootstrap, JSON, Express, Node.js, React, Angular, Flask<br>
+<b>Tools and Frameworks:</b> JIRA, Git, GitHub, Agile methodologies, AWS, Spring Framework, Spring Boot, Version Control<br>
+<br>
+
 <h4>🧠 What I Do:</h4>
 <h6>Full-Stack Development:</h6> Building end-to-end solutions with a keen eye for detail and performance optimization. From dynamic, responsive front-end designs to robust, scalable back-end systems. 🌐<br>
-<h6>Data Engineering:</h6> Architecting scalable data pipelines, wrangling vast datasets, and making data-driven insights accessible. 📊<br>
+<h6>Software Engineering:</h6> Architecting scalable software solutions, wrangling vast datasets, and making data-driven insights accessible. 📊<br>
 <h6>Automation & Optimization:</h6> Automating repetitive tasks to save time and reduce errors, and optimizing code for better efficiency. ⚙️<br>
 <h6>Continuous Learning:</h6> Keeping up with the latest trends and technologies to continually improve and innovate. 🚀<br><br>
 <h4>🌱 Currently Exploring:</h4>
